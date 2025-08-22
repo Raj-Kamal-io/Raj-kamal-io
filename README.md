@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kamal-io&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kamal-io" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML,CSS,C++,C,Python**
 
