@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kamal-io&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kamal-io" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **HTML,CSS,C++,C,Python**
+- 💬 Ask me about **HTML,CSS,JS,REACT,C++,C,Python**
 
 - 📫 How to reach me **rajkamal914230@gmail.com**
 
