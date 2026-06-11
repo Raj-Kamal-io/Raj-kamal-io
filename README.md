@@ -76,7 +76,7 @@
 
 - Track study sessions, manage academic tasks, and monitor progress in one place
 - Built with **React + Vite**, and a responsive UI with Pomodoro timer
-- 8 production deployments with active usage; features navigation drawer and dashboard components
+- production deployments with active usage; features navigation drawer and dashboard components
 - **Tech:** React, Vite, JavaScript, CSS 
 
 ---
