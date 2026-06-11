@@ -107,13 +107,12 @@
 ## 🎯 Currently Focused On
 
 - 🔧 **Advanced Backend Development** — scalable APIs, server-side architecture
-- 🤖 **Machine Learning & Deep Learning** — AI/ML internship, fraud detection, neural networks
+- 🤖 **Machine Learning & Deep Learning** — AI/ML internship, fraud detection, neural networks, Recommendation System
 - 🏗️ **System Design** — understanding how large-scale systems are built
 - 🌐 **Scalable Web Applications** — production-grade fullstack projects
 
 ---
 
 <p align="center">
-  <i>"Consistent effort beats occasional brilliance."</i><br/>
   <b>Open to opportunities · Internships · Collaborations</b>
 </p>
