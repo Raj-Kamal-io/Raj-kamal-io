@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Raj Kamal 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering Student · B.Tech Final Year @ NIAMT Ranchi</b><br/>
+  <b>Computer Engineering Student · @ NIAMT Ranchi</b><br/>
   Building real projects at the intersection of <b>Machine Learning</b> and <b>Full-Stack Web Development</b>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd-year B.Tech **Computer Engineering** student at **NIAMT, Ranchi**
+- 🎓 final year B.Tech **Computer Engineering** student at **NIAMT, Ranchi**
 - 💡 Passionate about **Machine Learning**, **DSA**, and building tools that actually solve problems
 - 🌱 Currently learning advanced **ML techniques** and strengthening **Full-Stack (MERN)** skills
 - 🏆 Solved **150+ DSA problems** on LeetCode & CodeChef (Rating: 1200+)
