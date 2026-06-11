@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Raj Kamal 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering Student · @ NIAMT Ranchi</b><br/>
-  Building real projects at the intersection of <b>Machine Learning</b> and <b>Full-Stack Web Development</b>
+  <b>Final Year Computer Engineering Student @ NIAMT Ranchi (Formerly NIFFT)</b><br/>
+  Full Stack Web Developer &nbsp;|&nbsp; AI Enthusiast &nbsp;|&nbsp; Problem Solver
 </p>
 
 <p align="center">
@@ -22,9 +22,11 @@
 
 ## 🚀 About Me
 
-- 🎓 final year B.Tech **Computer Engineering** student at **NIAMT, Ranchi**
-- 💡 Passionate about **Machine Learning**, **DSA**, and building tools that actually solve problems
-- 🌱 Currently learning advanced **ML techniques** and strengthening **Full-Stack (MERN)** skills
+- 🎓 Final-year B.Tech **Computer Engineering** student at **NIAMT, Ranchi (Formerly NIFFT)**
+- 💡 Passionate about **Machine Learning**, **DSA**, and building tools that solve real problems
+- 🌱 Currently deepening **Backend Development**, **ML/Deep Learning**, and **System Design** skills
+- 🏆 Solved **150+ DSA problems** on LeetCode & CodeChef (Rating: 1200+)
+- 🎯 Targeting a **7–8 LPA coding role** — building placement-ready, production-grade projects
 
 ---
 
@@ -42,6 +44,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **ML & Data**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -52,6 +55,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
@@ -61,21 +66,21 @@
 ### 🧠 [Heart Disease Prediction System](https://github.com/Raj-Kamal-io)
 > Production-grade modular ML pipeline with Flask web UI
 
-- Built an end-to-end ML pipeline: data ingestion → preprocessing → training → prediction
+- Built a complete end-to-end ML pipeline: data ingestion → preprocessing → training → prediction
 - Used **Logistic Regression + GridSearchCV** for hyperparameter tuning
-- Preprocessing via `ColumnTransformer` (SimpleImputer + StandardScaler)
-- Served predictions through a **responsive Flask web application**
+- Preprocessing via `ColumnTransformer` (SimpleImputer + StandardScaler), saved as `.pkl`
+- Deployed predictions through a **responsive Flask web application**
 - **Tech:** Python, Scikit-learn, Flask, Pandas, NumPy
 
 ---
 
-### 📋 [StudyFlow — Student Dashboard App](https://study-tracker-seven-iota.vercel.app)
-> Personal productivity web app built for students — live on Vercel
+### 📚 [StudyTracker — Student Dashboard App](https://study-tracker-seven-iota.vercel.app)
+> Personal productivity dashboard built for students — live on Vercel
 
-- Real-time study session tracking, Pomodoro timer, and academic task management
-- Firebase-authenticated with admin dashboard and responsive UI
-- Deployed on **Vercel** with 8 production deployments and active usage
-- **Tech:** React, Vite, JavaScript, CSS, Firebase
+- Track study sessions, manage academic tasks, and monitor progress in one place
+- Built with **React + Vite**, Firebase authentication, and a responsive UI with Pomodoro timer
+- 8 production deployments with active usage; features navigation drawer and dashboard components
+- **Tech:** React, Vite, JavaScript, CSS, Firebase, Vercel
 
 ---
 
@@ -84,7 +89,7 @@
 
 - Implemented **3 algorithms**: Isolation Forest, Local Outlier Factor (LOF), One-Class SVM
 - Engineered features: arrival deviation, absence frequency, consecutive streaks, early departures
-- Comparative analysis of algorithms across different dataset characteristics
+- Comparative analysis of all 3 algorithms across different dataset characteristics
 - **Tech:** Python, Scikit-learn, NumPy, Pandas, Jupyter Notebook
 
 ---
@@ -104,9 +109,11 @@
 
 ## 🎯 Currently Focused On
 
-- 📌 **AI/ML Internship** — Credit Card Fraud Detection project (SMOTE, Isolation Forest, AUC-ROC)
+- 🔧 **Advanced Backend Development** — scalable APIs, server-side architecture
+- 🤖 **Machine Learning & Deep Learning** — AI/ML internship, fraud detection, neural networks
+- 🏗️ **System Design** — understanding how large-scale systems are built
+- 🌐 **Scalable Web Applications** — production-grade fullstack projects
 - 📌 **TCS NQT Preparation** — DSA, Aptitude, and Verbal reasoning
-- 📌 **Full-Stack** — Deepening MERN skills for placement-ready projects
 
 ---
 
