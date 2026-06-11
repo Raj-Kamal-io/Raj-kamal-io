@@ -1,29 +1,118 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Raj+Kamal!" alt="Typing SVG" /></a>
-<h3 align="center">I'm Currently Working on My Skills</h3>
+<h1 align="center">Hey, I'm Raj Kamal 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kamal-io&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kamal-io" /> </p>
-
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **HTML,CSS,JS,REACT,C++,C,Python**
-
-- 📫 How to reach me **rajkamal914230@gmail.com**
-
-- ⚡ Fun fact **I'm Introvert 😓**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@rajkamal914230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajkamal914230" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj-kamal-89ba51275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kamal-89ba51275/" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_.io" height="30" width="40" /></a>
-<a href="https://discord.gg/deep_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deep_91" height="30" width="40" /></a>
+<p align="center">
+  <b>Computer Engineering Student · B.Tech Final Year @ NIAMT Ranchi</b><br/>
+  Building real projects at the intersection of <b>Machine Learning</b> and <b>Full-Stack Web Development</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-kamal-89ba51275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rajkamal914230@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/@rajkamal914230" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=raj-kamal-io&style=for-the-badge&color=0e75b6" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-kamal-io&show_icons=true&locale=en&layout=compact" alt="raj-kamal-io" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-kamal-io&show_icons=true&locale=en" alt="raj-kamal-io" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-kamal-io&" alt="raj-kamal-io" /></p>
+- 🎓 3rd-year B.Tech **Computer Engineering** student at **NIAMT, Ranchi**
+- 💡 Passionate about **Machine Learning**, **DSA**, and building tools that actually solve problems
+- 🌱 Currently learning advanced **ML techniques** and strengthening **Full-Stack (MERN)** skills
+- 🏆 Solved **150+ DSA problems** on LeetCode & CodeChef (Rating: 1200+)
+- 🎯 Targeting **placement-ready** by final year — focused on quality projects over quantity
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**ML & Data**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 [Heart Disease Prediction System](https://github.com/Raj-Kamal-io)
+> Production-grade modular ML pipeline with Flask web UI
+
+- Built an end-to-end ML pipeline: data ingestion → preprocessing → training → prediction
+- Used **Logistic Regression + GridSearchCV** for hyperparameter tuning
+- Preprocessing via `ColumnTransformer` (SimpleImputer + StandardScaler)
+- Served predictions through a **responsive Flask web application**
+- **Tech:** Python, Scikit-learn, Flask, Pandas, NumPy
+
+---
+
+### 📋 [StudyFlow — Student Dashboard App](https://study-tracker-seven-iota.vercel.app)
+> Personal productivity web app built for students — live on Vercel
+
+- Real-time study session tracking, Pomodoro timer, and academic task management
+- Firebase-authenticated with admin dashboard and responsive UI
+- Deployed on **Vercel** with 8 production deployments and active usage
+- **Tech:** React, Vite, JavaScript, CSS, Firebase
+
+---
+
+### 🔍 [Employee Attendance Anomaly Detection](https://github.com/Raj-Kamal-io)
+> Unsupervised ML system to flag irregular attendance patterns — no labelled data needed
+
+- Implemented **3 algorithms**: Isolation Forest, Local Outlier Factor (LOF), One-Class SVM
+- Engineered features: arrival deviation, absence frequency, consecutive streaks, early departures
+- Comparative analysis of algorithms across different dataset characteristics
+- **Tech:** Python, Scikit-learn, NumPy, Pandas, Jupyter Notebook
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-kamal-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-kamal-io&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-kamal-io&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Focused On
+
+- 📌 **AI/ML Internship** — Credit Card Fraud Detection project (SMOTE, Isolation Forest, AUC-ROC)
+- 📌 **TCS NQT Preparation** — DSA, Aptitude, and Verbal reasoning
+- 📌 **Full-Stack** — Deepening MERN skills for placement-ready projects
+
+---
+
+<p align="center">
+  <i>"Consistent effort beats occasional brilliance."</i><br/>
+  <b>Open to opportunities · Internships · Collaborations</b>
+</p>
