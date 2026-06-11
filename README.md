@@ -25,8 +25,6 @@
 - 🎓 final year B.Tech **Computer Engineering** student at **NIAMT, Ranchi**
 - 💡 Passionate about **Machine Learning**, **DSA**, and building tools that actually solve problems
 - 🌱 Currently learning advanced **ML techniques** and strengthening **Full-Stack (MERN)** skills
-- 🏆 Solved **150+ DSA problems** on LeetCode & CodeChef (Rating: 1200+)
-- 🎯 Targeting **placement-ready** by final year — focused on quality projects over quantity
 
 ---
 
