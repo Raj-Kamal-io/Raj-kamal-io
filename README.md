@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Final Year Computer Engineering Student @ NIAMT Ranchi (Formerly NIFFT)</b><br/>
-  Full Stack Web Developer &nbsp;|&nbsp; AI Enthusiast &nbsp;|&nbsp; Problem Solver
+  Full Stack Web Developer &nbsp;|&nbsp; ML & Deep Learning Enthusiast
 </p>
 
 <p align="center">
@@ -25,8 +25,6 @@
 - 🎓 Final-year B.Tech **Computer Engineering** student at **NIAMT, Ranchi (Formerly NIFFT)**
 - 💡 Passionate about **Machine Learning**, **DSA**, and building tools that solve real problems
 - 🌱 Currently deepening **Backend Development**, **ML/Deep Learning**, and **System Design** skills
-- 🏆 Solved **150+ DSA problems** on LeetCode & CodeChef (Rating: 1200+)
-- 🎯 Targeting a **7–8 LPA coding role** — building placement-ready, production-grade projects
 
 ---
 
@@ -43,7 +41,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **ML & Data**
@@ -78,9 +75,9 @@
 > Personal productivity dashboard built for students — live on Vercel
 
 - Track study sessions, manage academic tasks, and monitor progress in one place
-- Built with **React + Vite**, Firebase authentication, and a responsive UI with Pomodoro timer
+- Built with **React + Vite**, and a responsive UI with Pomodoro timer
 - 8 production deployments with active usage; features navigation drawer and dashboard components
-- **Tech:** React, Vite, JavaScript, CSS, Firebase, Vercel
+- **Tech:** React, Vite, JavaScript, CSS 
 
 ---
 
@@ -113,7 +110,6 @@
 - 🤖 **Machine Learning & Deep Learning** — AI/ML internship, fraud detection, neural networks
 - 🏗️ **System Design** — understanding how large-scale systems are built
 - 🌐 **Scalable Web Applications** — production-grade fullstack projects
-- 📌 **TCS NQT Preparation** — DSA, Aptitude, and Verbal reasoning
 
 ---
 
