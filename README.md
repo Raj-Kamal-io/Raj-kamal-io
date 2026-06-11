@@ -15,7 +15,6 @@
   <a href="https://twitter.com/@rajkamal914230" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=raj-kamal-io&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
